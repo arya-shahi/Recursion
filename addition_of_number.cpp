@@ -15,3 +15,10 @@ int main()
     cin>>num;
     cout<<"Sum is: "<<sum(num);
 }
+
+
+/*
+Enter a number: 
+5
+Sum is: 15
+    */
