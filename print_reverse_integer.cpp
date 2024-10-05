@@ -24,3 +24,9 @@ int main()
    cout<<"Reversed string: ";
    reverse(n);
 }
+
+
+/*
+Enter a four digit integer: 4588
+Reversed string: 8854
+   */
