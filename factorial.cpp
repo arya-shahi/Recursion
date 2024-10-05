@@ -15,3 +15,9 @@ int main()
     cin>>a;
     cout<<"Factorial is: "<<fact(a);
 }
+
+/*
+Enter an integer: 
+4
+Factorial is: 24
+    */
