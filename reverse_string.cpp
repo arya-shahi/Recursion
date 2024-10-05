@@ -30,3 +30,8 @@ int main()
     return 0; 
 }
 
+
+/*
+Enter a string: symbiosis
+sisoibmys
+*/
